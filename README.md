@@ -1,4 +1,4 @@
-teambytekarmafitnessapp.netlify.app
+https://teambytekarmafitnessapp.netlify.app/
 
 # HackathonWebSite
 
