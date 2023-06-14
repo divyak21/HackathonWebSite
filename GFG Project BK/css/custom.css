@@ -1,0 +1,35 @@
+h3{
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.img-responsiv{
+    margin-top: 30px;
+    max-width: 100%;
+}
+.half_bg_them::after{
+    background-color: azure;
+}
+.img-responsi{
+    margin-top: 30px;
+    max-width: 100%;
+    margin-bottom: 20px;
+    
+}
+.hh{
+    margin-top: 300px;
+}
+.ssd{
+    position: relative;
+    right: 200px;
+}
+.ssdd{
+    text-align: left;
+    position: relative;
+    right: 200px;
+}
+.img-responsiv
+{
+    max-width: 100%;
+    margin-top: 100px;
+}
